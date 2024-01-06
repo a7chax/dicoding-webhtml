@@ -1,0 +1,21 @@
+/*
+* @Author: arungicahaya
+* @Date:   2024-01-07 01:55:15
+* @Last Modified by:   arungicahaya
+* @Last Modified time: 2024-01-07 01:55:48
+*/
+.contents {
+  border: 2px solid black;
+  padding: 15px;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+}
+
+#generateButton {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
